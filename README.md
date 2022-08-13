@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @stefiix92
 - 👀 I’m interested in automation and DevOps
-- 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on AWS, Azure, CI/CD, Python, Powershell
 
 <!---
