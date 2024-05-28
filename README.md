@@ -1,8 +1,30 @@
-- 👋 Hi, I’m @stefiix92
-- 👀 I’m interested in automation and DevOps
-- 💞️ I’m looking to collaborate on AWS, Azure, CI/CD, Python, Powershell
+# Hi there, I'm Michal Štefanec! 👋
 
-<!---
-stefiix92/stefiix92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 About Me
+
+I'm a passionate DevOps Engineer with a strong focus on Web3 and Crypto technologies. I thrive on building scalable, secure, and efficient systems that drive the decentralized future.
+
+- 🔧 DevOps Enthusiast
+- 🌐 Web3 Advocate
+- 💸 Crypto Believer
+- 📈 Always Learning
+
+## 🛠️ Technologies & Tools
+
+### DevOps & Cloud
+- **CI/CD:** Jenkins, GitHub Actions, GitLab CI, CircleCI
+- **Cloud Providers:** AWS, GCP, Azure
+- **Containerization:** Docker, Kubernetes
+- **Infrastructure as Code:** Terraform, Ansible
+- **Monitoring & Logging:** Prometheus, Grafana, VictoriaMetrics, Telegraf
+
+### Web3 & Crypto
+- **Blockchain Platforms:** EVM, Solana, Cardano, Flow
+
+### Programming & Scripting
+- **Languages:** Python, Bash, JavaScript
+- **Version Control:** Git, GitHub
+
+---
+
+Thank you for visiting my profile! Let's build the decentralized future together! 🚀
