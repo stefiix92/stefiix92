@@ -1,30 +1,39 @@
-# Hi there, I'm Michal Štefanec! 👋
+# 👋 Hi there, I'm Michal Štefanec  
 
-## 🚀 About Me
+## 🚀 About Me  
+I'm a **Senior DevOps & SRE Engineer** with a strong background in **Web3 & Crypto infrastructure**.  
+I specialize in **scalable systems, high availability, monitoring, and automation**. My focus is on making infrastructure **resilient, cost-efficient, and secure** — whether on the cloud or self-hosted.  
 
-I'm a passionate DevOps Engineer with a strong focus on Web3 and Crypto technologies. I thrive on building scalable, secure, and efficient systems that drive the decentralized future.
-
-- 🔧 DevOps Enthusiast
-- 🌐 Web3 Advocate
-- 💸 Crypto Believer
-- 📈 Always Learning
-
-## 🛠️ Technologies & Tools
-
-### DevOps & Cloud
-- **CI/CD:** Jenkins, GitHub Actions, GitLab CI, CircleCI
-- **Cloud Providers:** AWS, GCP, Azure
-- **Containerization:** Docker, Kubernetes
-- **Infrastructure as Code:** Terraform, Ansible
-- **Monitoring & Logging:** Prometheus, Grafana, VictoriaMetrics, Telegraf
-
-### Web3 & Crypto
-- **Blockchain Platforms:** EVM, Solana, Cardano, Flow
-
-### Programming & Scripting
-- **Languages:** Python, Bash, JavaScript
-- **Version Control:** Git, GitHub
+🔹 Open to **part-time / contract opportunities**  
+🔹 Passionate about **automation, observability, and performance tuning**  
+🔹 Experienced in **blockchain validators, monitoring at scale, and CI/CD pipelines**  
 
 ---
 
-Thank you for visiting my profile! Let's build the decentralized future together! 🚀
+## 🛠️ Tech Stack  
+
+### 🌩️ DevOps & Cloud  
+- **CI/CD:** GitHub Actions, GitLab CI, CircleCI, Jenkins  
+- **Cloud Providers:** AWS, GCP, Azure  
+- **Containerization & Orchestration:** Docker, Kubernetes, Nomad  
+- **Infrastructure as Code:** Terraform, Ansible, Packer  
+- **Monitoring & Logging:** Prometheus, Grafana, VictoriaMetrics, Loki, Telegraf  
+
+### 🔗 Web3 & Crypto  
+- **Validators & Nodes:** Solana, Cardano, EVM, Flow  
+- **On-call & Monitoring** for validator performance and uptime  
+
+### 💻 Programming & Scripting  
+- **Languages:** Python, Bash, JavaScript, TypeScript, Kotlin, Java, C#
+- **Version Control:** Git, SVN
+
+---
+
+## 📫 Let’s Connect  
+- 💼 Open to **part-time SRE / DevOps contract roles**  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/michalstefanec)  
+- 🐙 [GitHub](https://github.com/YOURUSERNAME)  
+
+---
+
+⭐️ *Thanks for stopping by! Let’s build reliable systems — and the decentralized future — together.* 🚀
