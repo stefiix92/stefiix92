@@ -31,8 +31,8 @@ I specialize in **scalable systems, high availability, monitoring, and automatio
 
 ## 📫 Let’s Connect  
 - 💼 Open to **part-time SRE / DevOps contract roles**  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/michalstefanec)  
-- 🐙 [GitHub](https://github.com/YOURUSERNAME)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/stefiix/)  
+- 🐙 [GitHub](https://github.com/stefiix92)  
 
 ---
 
